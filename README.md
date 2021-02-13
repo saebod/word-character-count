@@ -12,6 +12,3 @@ witht = Character_Count('test.docx','Stop-python')
 print(witht)
 >> 886
 ```
-
-
-###End
